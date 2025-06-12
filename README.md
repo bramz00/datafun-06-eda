@@ -27,3 +27,9 @@ git add .
 git commit -m "$msg"
 git push origin main
 
+
+
+
+For this project, we use the diamonds dataset built in to seaborn: https://github.com/mwaskom/seaborn-data/blob/master/diamonds.csv
+
+The columns of this dataset are: "carat","cut","color","clarity","depth","table","price","x","y","z"
